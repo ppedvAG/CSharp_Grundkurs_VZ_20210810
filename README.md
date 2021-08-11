@@ -86,17 +86,17 @@
 
 
 ## M010 | OOP - POLYMORPHISMUS ABSTRACT
-- [ ] abstrakte Member und Klassen <!--[Link](Uebungen/Modul010_01_PolymorphismusAbstract/Program.cs) --> 
-- [ ] Typtest "GetType()" <!--[Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) --> 
-- [ ] Typtest "typeof" <!--[Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) --> 
-- [ ] Typtest "is" <!--[Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) --> 
-- [ ] Fragen <!--[Link](Uebungen/Modul010_Fragen) --> 
+- [x] abstrakte Member und Klassen [Link](Uebungen/Modul010_01_PolymorphismusAbstract/Program.cs)  
+- [x] Typtest "GetType()" [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs)  
+- [x] Typtest "typeof" [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs)  
+- [x] Typtest "is" [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs)  
+- [x] Fragen [Link](Uebungen/Modul010_Fragen)  
 
 
 ## M011 | INTERFACES
-- [ ] Interface <!--[Link](Uebungen/Modul011_01_Interface/Program.cs) --> 
-- [ ] Interface ab C# 8 <!--[Link](Uebungen/Modul011_02_InterfaceCSharp8/Program.cs) --> 
-- [ ] Fragen <!--[Link](Uebungen/Modul011_Fragen) --> 
+- [x] Interface [Link](Uebungen/Modul011_01_Interface/Program.cs)  
+- [x] Interface ab C# 8 [Link](Uebungen/Modul011_02_InterfaceCSharp8/Program.cs)  
+- [x] Fragen [Link](Uebungen/Modul011_Fragen)  
 
 
 ## M012 | GENERISCHE LISTEN, DICTIONARY, STACK und QUEUE
