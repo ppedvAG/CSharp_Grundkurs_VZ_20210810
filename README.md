@@ -97,6 +97,7 @@
 - [x] Interface [Link](Uebungen/Modul011_01_Interface/Program.cs)  
 - [x] Interface ab C# 8 [Link](Uebungen/Modul011_02_InterfaceCSharp8/Program.cs)  
 - [x] Fragen [Link](Uebungen/Modul011_Fragen)  
+- [x] Fragen Part 2 [Link](Uebungen/Modul011_Fragen_Part2)  
 
 
 ## M012 | GENERISCHE LISTEN, DICTIONARY, STACK und QUEUE
@@ -116,7 +117,7 @@
 - [x] anonyme Methoden [Link](Uebungen/Modul013_01_Delegates/AnonymeMethoden.cs) 
 - [x] EventHandler [Link](Uebungen/Modul013_02_Events/Program.cs) 
 - [x] Timer [Link](Uebungen/Modul013_03_Timer/Program.cs) 
-
+- [x] Fragen [Link](Uebungen/Modul013_Fragen) 
 
 ## M014 | FEHLERBEHANDLUNG
 - [ ] Fehlertypen
